@@ -1,0 +1,7 @@
+PROGETTO N. 1
+Sviluppare un programma C# che, dato in ingresso un testo, converta ogni carattere in formato ASCII binario con N = 7 bit e, per ogni carattere, calcoli il bit di parità pari (vedere l’esempio sottostante). Implementare i pulsanti Calcola, Reset, Esci e inserire i controlli sui dati.
+
+c: 1100011 0
+i: 1101001 0
+a: 1100001 1
+o: 1101111 0
